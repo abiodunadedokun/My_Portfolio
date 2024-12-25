@@ -16,10 +16,21 @@ Welcome to my GitHub portfolio! You'll find a curated collection of my data anal
 Click on any project to learn more and explore the associated code, data, and results.
 
 ## About Me
-A brief introduction about yourself, your skills, and your interests.
+Sure! Here's a concise and professional "About Me" section tailored for a GitHub portfolio:
+
+---
+
+# About Me
+
+Hi, I’m Abiodun, a dedicated data analyst with a strong foundation in physics and computer simulations. My academic journey, including a bachelor's degree in physics and a master's degree in computer simulations, has honed my analytical thinking and problem-solving skills. I specialize in leveraging data to uncover actionable insights and support data-driven decision-making.
+
+I enjoy exploring diverse datasets, transforming raw data into meaningful visualizations, and creating interactive dashboards. I thrive on tackling real-world problems through data. I’m passionate about delivering impactful insights that optimize business processes and strategies.
+
+---
 
 
-### [YouTube Data Cleaning Project](https://github.com/your-username/YouTubeDataCleaning)
+
+### [YouTube Data Cleaning Project](https://github.com/abiodunadedokun/youtube_data_cleaning)
 This project cleans YouTube channel data by removing inconsistencies, handling missing values, and standardizing formats. The final dataset is prepared for analysis and visualization.
 
 ### [HR Data Analysis Dashboard](https://github.com/your-username/HRDataAnalysis)
