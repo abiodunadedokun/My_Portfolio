@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio! You'll find a curated collection of my data anal
 
 ## Projects
 
-1. [YouTube Data Cleaning Project](https://github.com/your-username/YouTubeDataCleaning)
+1. [YouTube Data Cleaning Project](https://github.com/abiodunadedokun/youtube_data_cleaning)
 2. [HR Data Analysis Dashboard](https://github.com/your-username/HRDataAnalysis)
 3. [Coffee Sales Trends Analysis](https://github.com/your-username/CoffeeSalesAnalysis)
 
