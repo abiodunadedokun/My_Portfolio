@@ -9,9 +9,9 @@ Welcome to my GitHub portfolio! You'll find a curated collection of my data anal
 
 ## Projects
 
-1. [YouTube Data Cleaning Project](https://github.com/abiodunadedokun/youtube_data_cleaning)
-2. [HR Data Analysis Dashboard](https://github.com/your-username/HRDataAnalysis)
-3. [Coffee Sales Trends Analysis](https://github.com/your-username/CoffeeSalesAnalysis)
+1. [Coffee Sales Exploratory Data Analysis](https://github.com/abiodunadedokun/Coffee-Sales-EDA)
+2. [HR Data Analysis Exploratory Data Analysis](https://github.com/abiodunadedokun/HR-Data-Analysis)
+3. [YouTube Data Cleaning](https://github.com/abiodunadedokun/youtube_data_cleaning)
 
 Click on any project to learn more and explore the associated code, data, and results.
 
@@ -21,14 +21,18 @@ Hi, I’m Abiodun. I'm a dedicated data analyst with a strong foundation in phys
 
 I enjoy exploring diverse datasets, transforming raw data into meaningful visualizations, and creating interactive dashboards. I thrive on tackling real-world problems through data. I’m passionate about delivering impactful insights that optimize business processes and strategies.
 
+
+### [Coffee Sales Trends Analysis](https://github.com/abiodunadedokun/Coffee-Sales-EDA)
+Analyzed coffee sales data to uncover key trends, evaluate product performance, and gain actionable insights to optimize sales strategies and enhance customer engagement.
+
+### [HR Data Analysis Dashboard](https://github.com/abiodunadedokun/HR-Data-Analysis)
+An interactive dashboard to analyze employee turnover, diversity metrics, and performance evaluations. This project showcases advanced visualization and data storytelling skills.
+
 ### [YouTube Data Cleaning Project](https://github.com/abiodunadedokun/youtube_data_cleaning)
 This project cleans YouTube channel data by removing inconsistencies, handling missing values, and standardizing formats. The final dataset is prepared for analysis and visualization.
 
-### [HR Data Analysis Dashboard](https://github.com/your-username/HRDataAnalysis)
-An interactive dashboard to analyze employee turnover, diversity metrics, and performance evaluations. This project showcases advanced visualization and data storytelling skills.
 
-### [Coffee Sales Trends Analysis](https://github.com/your-username/CoffeeSalesAnalysis)
-Analyzed coffee sales data to uncover key trends, evaluate product performance, and gain actionable insights to optimize sales strategies and enhance customer engagement.
+
 
 
 
