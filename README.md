@@ -17,7 +17,7 @@ Click on any project to learn more and explore the associated code, data, and re
 
 ## About Me
 
-Hi, I’m Abiodun. I'm a dedicated data analyst with a strong foundation in physics and computer simulations. My academic journey, including a bachelor's degree in physics and a master's in computer simulations, has honed my analytical thinking and problem-solving skills. I specialize in using data to uncover actionable insights and support data-driven decision-making.
+Hi, I’m Abiodun. I'm a dedicated data analyst with a strong foundation in Physics and Computer Simulations in Science. My academic journey, including a bachelor's degree in physics and a master's in computer simulations, has honed my analytical thinking and problem-solving skills. I specialize in using data to uncover actionable insights and support data-driven decision-making.
 
 I enjoy exploring diverse datasets, transforming raw data into meaningful visualizations, and creating interactive dashboards. I thrive on tackling real-world problems through data. I’m passionate about delivering impactful insights that optimize business processes and strategies.
 
