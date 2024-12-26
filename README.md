@@ -1,10 +1,6 @@
 
 
 
-
-
-# My Portfolio
-
 Welcome to my GitHub portfolio! You'll find a curated collection of my data analysis and visualization projects here.
 
 ## Projects
