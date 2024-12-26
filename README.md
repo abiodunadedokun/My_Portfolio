@@ -1,9 +1,12 @@
 
 
 
+
 Welcome to my GitHub portfolio! You'll find a curated collection of my data analysis and visualization projects here.
 
+
 ## Projects
+
 
 1. [Coffee Sales Exploratory Data Analysis](https://github.com/abiodunadedokun/Coffee-Sales-EDA)
 2. [HR Data Analysis Exploratory Data Analysis](https://github.com/abiodunadedokun/HR-Data-Analysis)
