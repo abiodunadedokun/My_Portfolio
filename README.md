@@ -11,6 +11,7 @@ Welcome to my GitHub portfolio! You'll find a curated collection of my data anal
 1. [Coffee Sales Exploratory Data Analysis](https://github.com/abiodunadedokun/Coffee-Sales-EDA)
 2. [HR Data Analysis Exploratory Data Analysis](https://github.com/abiodunadedokun/HR-Data-Analysis)
 3. [YouTube Data Cleaning](https://github.com/abiodunadedokun/youtube_data_cleaning)
+4. [Customer Churn Prediction](https://github.com/abiodunadedokun/customer-churn-prediction)
 
 Click on any project to learn more and explore the associated code, data, and results.
 
@@ -29,6 +30,10 @@ An interactive dashboard to analyze employee turnover, diversity metrics, and pe
 
 ### [YouTube Data Cleaning](https://github.com/abiodunadedokun/youtube_data_cleaning)
 This project cleans YouTube channel data by removing inconsistencies, handling missing values, and standardizing formats. The final dataset is prepared for analysis and visualization.
+
+### [Customer Churn Prediction](https://github.com/abiodunadedokun/customer-churn-prediction)
+This project predicts customer churn by preprocessing customer data, addressing class imbalance, and applying machine learning techniques. The model, built using a Random Forest Classifier, identifies key factors influencing churn, enabling actionable insights and business recommendations.
+
 
 
 
