@@ -2,7 +2,7 @@
 
 
 
-Welcome to my GitHub portfolio! You'll find a curated collection of my Business and Data analysis projects here.
+Welcome to my GitHub portfolio! You'll find a curated collection of my projects here.
 
 
 ## Projects
